@@ -78,19 +78,14 @@ module.exports.onLoad = async function ({ api }) {
       const msg =
 `╔═══━━━✦ 🕒 ᴛɪᴍᴇ ✦━━━═══╗
 ┃ ➤ ${now}
-╚═══━━━✦ 💫 ✦━━━═══╝
-☎️:+8801789138157
 🌟━━━━━━━━━━━━━━━━━━🌟
-${text}
-🌟━━━━━━━━━━━━━━━━━━🌟
-
-╔═══━━━✦ 📅 ᴅᴀᴛᴇ ✦━━━═══╗
+${text}╔═══━━━✦ 📅 ᴅᴀᴛᴇ ✦━━━═══╗
 ┃ ➤ ${todayDate}
 ╚═══━━━✦ 💫 ✦━━━═══
-💙 Facebook Link: [https://www.facebook.com/profile.php?id=61568411310748] 🌐✨
+💙 Facebook Link: [https://www.facebook.com/share/1DzXBFvoBh/] 🌐✨
 
 👑━━━━━━━━━━━━━━━━━━━━👑
-💎 ʙᴏᴛ ᴏᴡɴᴇʀ :- 𝑼𝒅𝒂𝒚 𝑯𝒂𝒔𝒂𝒏 𝑺𝒊𝒚𝒂𝒎 💎
+💎 ʙᴏᴛ ᴏᴡɴᴇʀ :- মালেশিয়ার সিঙ্গেল বয় 💎
 👑━━━━━━━━━━━━━━━━━━━━👑`;
 
       try {
