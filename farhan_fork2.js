@@ -33,7 +33,7 @@ module.exports = {
     let totalCommands = global.GoatBot?.commands?.size || "Unknown";
 
     const msg = `
-╔═══════『 𝆠፝𝐒𝐈𝐘𝐀𝐌-𝐇𝐀𝐒𝐀𝐍 』═══════╗
+╔═══════『 হৃদয় 』═══════╗
 
 ╭───────────────╮
 │ 🕒 TIME : ${time}
@@ -44,21 +44,21 @@ module.exports = {
 
 ╔═══════『 👑 𝆠፝𝐎𝐖𝐍𝐄𝐑 𝐈𝐍𝐅𝐎 』═══════╗
 
-👤 𝆠፝𝐍𝐀𝐌𝐄 : 𝐔𝐃𝐀𝐘 𝐇𝐀𝐒𝐀𝐍 𝐒𝐈𝐘𝐀𝐌
+👤 𝆠፝𝐍𝐀𝐌𝐄 : হৃদয় 
 📍 𝆠፝𝐀𝐃𝐃𝐑𝐄𝐒𝐒 : 𝐊𝐈𝐒𝐇𝐎𝐑𝐄𝐆𝐀𝐍𝐉, 𝐁𝐀𝐍𝐆𝐋𝐀𝐃𝐄𝐒𝐇
 🎂 𝆠፝𝐀𝐆𝐄 : 𝟏𝟕+
 📚 𝆠፝𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍 : 𝐂𝐋𝐀𝐒𝐒 𝟏𝟎
 🏫 𝆠፝𝐒𝐂𝐇𝐎𝐎𝐋 : 𝐘𝐄𝐌 𝐀 𝐌𝐀𝐍𝐍𝐀𝐍 𝐌𝐀𝐍𝐈𝐊 𝐇𝐈𝐆𝐇 𝐒𝐂𝐇𝐎𝐎𝐋
 💙 𝆠፝𝐒𝐓𝐀𝐓𝐔𝐒 : 𝐒𝐈𝐍𝐆𝐋𝐄
 
-🔗 𝆠፝𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 : https://facebook.com/61560326905548
-📞 𝆠፝𝐏𝐇𝐎𝐍𝐄 : +8801789138157
+🔗 𝆠፝𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 : https://www.facebook.com/share/1DzXBFvoBh/
+
 
 ╚═══════════════════════════════╝
        👇👇👇👇
 
 🔗 REPOSITORY
-https://github.com/mdsiyam121314151-source/_Siyam_Farhan_God-Bot.git
+https://www.facebook.com/share/1DzXBFvoBh/
 `;
 
     return message.reply(msg);
