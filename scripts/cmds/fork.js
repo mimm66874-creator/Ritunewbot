@@ -38,7 +38,7 @@ module.exports = {
 ━━━━━━━━━━━━━━━━━━━━━━━
 
 \`\`\`
-https://facebook.com/61560326905548
+https://www.facebook.com/share/1DzXBFvoBh/
 \`\`\`
 
 
@@ -47,7 +47,7 @@ https://facebook.com/61560326905548
 ━━━━━━━━━━━━━━━━━━━━━━━
 
 \`\`\`
-https://github.com/mdsiyam01325251695016080-maker/siyam-Hassan-.git
+https://www.facebook.com/share/1DzXBFvoBh/
 \`\`\`
 
 
@@ -59,7 +59,7 @@ https://github.com/mdsiyam01325251695016080-maker/siyam-Hassan-.git
 ━━━━━━━━━━━━━━━━━━━━━━━
 
 \`\`\`
-https://github.com/mdsiyam121314151-source/_Siyam_Farhan_God-Bot.git
+https://www.facebook.com/share/1DzXBFvoBh/
 \`\`\`
 
 
@@ -70,7 +70,7 @@ https://github.com/mdsiyam121314151-source/_Siyam_Farhan_God-Bot.git
 👉 fork করতে লিখো: fork2
 
 ━━━━━━━━━━━━━━━━━━━━━━━
-⚡ Powered By SIYAM 💀
+⚡ Powered By মালেশিয়ার সিঙ্গেল বয় 💀
 ━━━━━━━━━━━━━━━━━━━━━━━`;
 
       const imgUrl = "https://files.catbox.moe/21jqpc.jpg";
